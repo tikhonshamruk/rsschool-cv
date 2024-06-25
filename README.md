@@ -1,2 +1,2 @@
 # rsschool-cvd
-https://Tihon.github.io/rsschool-cv/cv
+https://tikhonshamruk.github.io/rsschool-cv/cv
